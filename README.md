@@ -1,2 +1,4 @@
-# rebecasarai.github.io
-My first and very own personal webpage.
+#Rebeca Sarai
+
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
