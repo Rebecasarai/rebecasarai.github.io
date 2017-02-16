@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization lea
 url: "https://rebecasarai.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2
+data-ad-slot: 
 data-ad-client: 
 google_ad_client: 
 
