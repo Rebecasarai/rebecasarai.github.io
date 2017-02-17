@@ -3,7 +3,7 @@ $(function () {
 });  
 
 $( window ).scroll(function() {   
- if($( window ).scrollTop() > 450){  // scroll down abit and get the action   
+ if($( window ).scrollTop() > 500){  // scroll down abit and get the action   
   $(".progress-bar").each(function(){
     each_bar_width = $(this).attr('aria-valuenow');
     $(this).width(each_bar_width + '%');
