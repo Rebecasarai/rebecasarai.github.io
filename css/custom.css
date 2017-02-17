@@ -1,3 +1,8 @@
+
+
+
+
+
 .quotess{
   text-shadow: 2px 1px 5px #3f3232;
   text-align: center;
@@ -345,9 +350,207 @@ animation: AnimationName 4s ease infinite;
 
 
 
+#quote1{
+  padding-bottom: 50px;
+}
+
+.stay{
+margin-top: 50px;}
+
+/* THIRD SOCIAL
+*/
+.container2 {
+  height: 3em;
+  left: 50%;
+  margin: -1.5em 0 0 -6em;
+  position: absolute;
+  top: 50%;
+  width: 12em;
+}
+
+.social {
+  position: relative;
+  height: 3em;
+  width: 13.5em;
+  margin: auto;
+}
+
+.social li {
+  display: block;
+  height: 4em;
+  line-height: 4em;
+  margin: -2.2em;
+  position: absolute;
+  -webkit-transition: -webkit-transform .7s;
+  -moz-transition: -moz-transform .7s;
+  -ms-transition: -ms-transform .7s;
+  -o-transition: -o-transform .7s;
+  transition: transform .7s;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  text-align: center;
+  width: 4em;
+}
+
+.social a {
+  color: #fffdf0;
+  display: block;
+  height: 4em;
+  line-height: 4em;
+  text-align: center;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  width: 4em;
+}
+
+.social li:hover {
+  -webkit-transform: scale(1.3, 1.3) rotate(45deg);
+  -moz-transform: scale(1.3, 1.3) rotate(45deg);
+  -ms-transform: scale(1.3, 1.3) rotate(45deg);
+  -o-transform: scale(1.3, 1.3) rotate(45deg);
+  transform: scale(1.3, 1.3) rotate(45deg);
+}
+
+.facebook {
+  background: #155b9d;
+  left: 0;
+  top: 0%;
+}
+
+.twitter {
+  background: #1a9ec4;
+  bottom: 0;
+  left: 25%;
+}
+
+.dribbble {
+  background: #d05f8f;
+  left: 50%;
+  top: 0%;
+}
+
+.behance {
+  background: #3f7aa3;
+  bottom: 0;
+  left: 75%;
+}
+
+.linked-in {
+  background: #157f9d;
+  left: 100%;
+  top: 0%;
+}
+
+
+/* COSIAL NEW*/
+
+/*@import '//codepen.io/chrisdothtml/pen/ojLzJK.css';
+.social-btns .btn,
+.social-btns .btn:before,
+.social-btns .btn .fa {
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+  -webkit-transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+          transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+}
+.social-btns .btn:before {
+  top: 90%;
+  left: -110%;
+}
+.social-btns .btn .fa {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+.social-btns .btn.facebook:before {
+  background-color: #3b5998;
+}
+.social-btns .btn.facebook .fa {
+  color: #3b5998;
+}
+.social-btns .btn.twitter:before {
+  background-color: #3cf;
+}
+.social-btns .btn.twitter .fa {
+  color: #3cf;
+}
+.social-btns .btn.google:before {
+  background-color: #dc4a38;
+}
+.social-btns .btn.google .fa {
+  color: #dc4a38;
+}
+.social-btns .btn.dribbble:before {
+  background-color: #f26798;
+}
+.social-btns .btn.dribbble .fa {
+  color: #f26798;
+}
+.social-btns .btn.skype:before {
+  background-color: #00aff0;
+}
+.social-btns .btn.skype .fa {
+  color: #00aff0;
+}
+.social-btns .btn:focus:before,
+.social-btns .btn:hover:before {
+  top: -10%;
+  left: -10%;
+}
+.social-btns .btn:focus .fa,
+.social-btns .btn:hover .fa {
+  color: #fff;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.social-btns {
+  height: 90px;
+  margin: auto;
+  font-size: 0;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.social-btns .btn {
+  display: inline-block;
+  background-color: #fff;
+  width: 90px;
+  height: 90px;
+  line-height: 90px;
+  margin: 0 10px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  border-radius: 28%;
+  box-shadow: 0 5px 15px -5px rgba(0,0,0,0.1);
+  opacity: 0.99;
+}
+.social-btns .btn:before {
+  content: '';
+  width: 120%;
+  height: 120%;
+  position: absolute;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.social-btns .btn .fa {
+  font-size: 38px;
+  vertical-align: middle;
+}
+
+*/
+
 
 /*=====================*/
-
+/*
 .social-nav {
   padding: 0;
   list-style: none;
