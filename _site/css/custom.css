@@ -1,4 +1,9 @@
+.quotess{
+  text-shadow: 2px 1px 5px #3f3232;
+  text-align: center;
+  margin-top: 30%;
 
+}
 
 /*.text {
  position: absolute;
@@ -12,6 +17,10 @@
     top: 50%;
 
 }*/
+
+.cented{
+  margin: auto;
+}
 
 .text {
     position: relative;
@@ -231,6 +240,17 @@ max-width: 28%;}
   margin: 0;
     text-shadow: 2px 1px 5px #3f3232;
     letter-spacing: 1px;
+}
+header .header-content {
+    text-align: center;
+    padding: 0;
+    height: 50vh;
+}
+.quotess{
+  text-shadow: 2px 1px 5px #3f3232;
+  text-align: center;
+  margin-top: 50%;
+
 }
 }
 
@@ -478,8 +498,12 @@ animation: AnimationName 4s ease infinite;
 header .header-content {
     text-align: center;
     padding: 0;
-    height: 70vh;
+    height: 50vh;
 }
+
+
+
+
 
 
 header {
