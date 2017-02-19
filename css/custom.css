@@ -29,7 +29,7 @@
 }
 
 .inner-fund{
-      padding: 150px 0 50px;
+       padding: 150px 0 !important;
 }
 
 /*.text {
