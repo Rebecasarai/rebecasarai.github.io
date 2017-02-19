@@ -24,6 +24,10 @@
           text: "A leader is one who knows the way, goes the way and shows the way.",
           autor: "John C. Maxwell"
         },
+        {
+          text: "It does not matter how slowly you go as long as you do not stop.",
+          autor: "Confucius"
+        },
          {
           text: "What is not started will never get finished.",
           autor: "Goethe"
