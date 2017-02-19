@@ -20,6 +20,14 @@
 
 }
 
+@media (max-width: 350px) {
+  #quoteDisplay > h1 {
+    font-size:24px !important;
+
+  }
+
+}
+
 /*.text {
  position: absolute;
     width: 450px;

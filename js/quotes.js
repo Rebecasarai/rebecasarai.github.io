@@ -12,6 +12,10 @@
           text: "Always deliver more than expected.",
           autor: "Larry Page"
         },
+        {
+          text: "The best time to plant a tree was 20 years ago. The second best time is now..",
+          autor: "Chinese proverb"
+        },
          {
           text: "You miss 100 percent of the shots you don't take.",
           autor: "Wayne Gretzky"
