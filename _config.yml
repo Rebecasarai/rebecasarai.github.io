@@ -8,12 +8,14 @@ url: "https://rebecasarai.github.io" # the base hostname & protocol for your sit
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 
-data-ad-client: 
-google_ad_client: 
+data-ad-client: ca-pub-2005705144805240
+google_ad_client: ca-pub-2005705144805240
 
 google_analytics: 
 addthis_id: 
 disqus_account: 
+
+
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
