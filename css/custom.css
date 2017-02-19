@@ -28,6 +28,15 @@
 
 }
 
+
+
+
+header .header-content2 {
+    text-align: center;
+    padding: 150px 0 50px;
+    position: relative;
+}
+
 /*.text {
  position: absolute;
     width: 450px;
