@@ -737,9 +737,9 @@ header .header-content {
 
 
 
-header {
+/*header {
     min-height: 0%;
-}
+}*/
 
 #gradient{
 background: linear-gradient(296deg, #31a788, #5886d4, #990d7b, #f2f9ce, #1ca9aa);
