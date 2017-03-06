@@ -62,4 +62,10 @@ Through Braille Writer, improve the quality of life of both people with reduced 
 
 <p>Pero ¿somos realmente todos los que podemos disfrutar de ello?</p>
 
+<p>Las personas con visibilidad limitada cuentan con el infortunio de no poder disfrutar en plenitud de los más recientes e innovadores avances de la tecnología. En este momento, la mayoría no pueden alcanzar el mismo control sobre los dispositivos ni, como es lógico, utilizar todas sus funcionalidades y alcanzar los objetivos de estos como quisieran. En una época en donde es posible recurrir a herramientas de auto-publicación y auto-gestión en el área profesional y creativo, las herramientas que existen en el mercado no están orientadas a ellos, por lo que necesitan de una tercera o más personas para poder realizar cosas tan simples, como modificar sus propias obras literarias. Esa sensación de dependencia continua genera un efecto negativo en el autoestima de la persona y alarga el periodo de tiempo necesario para concluir los proyectos. </p>
+
+<h2 class="section-heading">¿Qué se puede hacer entonces?</h2>
+
+<p>Con The Braille Writer, podríamos facilitar la vida de muchas personas que tienen visibilidad reducida y darles una herramienta condicionada para ellos, para poder autogestionarse y ser capaces de alcanzar. </p>
+
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
