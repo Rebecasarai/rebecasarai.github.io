@@ -3,7 +3,7 @@ layout:     post
 title:      "The future of inclusion through technology. The Braille Writer App?"
 date:       2017-02-25 12:02:00
 author:     "Rebeca"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/braille.png"
 categories: Personal Projects
 ---
 
