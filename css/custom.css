@@ -15,6 +15,14 @@
 }
 
 
+.header-content-inner > h1:nth-child(1){
+ color:blue;   
+}
+
+.header-content-inner > a:nth-child(2){
+ color:blue;   
+}
+
 
 .quotess{
   text-shadow: 2px 1px 5px #3f3232;
