@@ -10,6 +10,9 @@
     background-size: cover;
 }
 
+.col-sm-5 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1){
+ height:102%;   
+}
 
 
 
