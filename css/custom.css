@@ -24,6 +24,12 @@
  color:blue;   
 }
 
+.col-sm-5 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) > img:nth-child(1){
+    height: 100%;
+    width: 100%;
+
+}
+
 
 .header-content{
     margin-top: 30%;
