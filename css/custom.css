@@ -30,6 +30,19 @@
 
 }
 
+a.btn:nth-child(1){
+    color: white;
+}
+
+.badges > a:nth-child(2){
+ color:black;   
+}
+
+#download > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > p:nth-child(2){
+    color: #e7f3fa;
+
+}
+
 
 .header-content{
     margin-top: 30%;
