@@ -68,4 +68,3 @@ Through Braille Writer, improve the quality of life of both people with reduced 
 
 <p>Con The Braille Writer, podríamos facilitar la vida de muchas personas que tienen visibilidad reducida y darles una herramienta condicionada para ellos, para poder autogestionarse y ser capaces de alcanzar. </p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
