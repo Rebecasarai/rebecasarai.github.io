@@ -31,9 +31,8 @@
 .container:after,
 .container:before,
 .f-row:after,
-.f-row:before,
-.nav:after,
-.nav:before {
+.f-row:before
+{
   content: "";
   display: table
 }
