@@ -1,5 +1,5 @@
 
-<section id="portfolio" class="download bg-primary text-center">
+<section id="portfolio" class="bg-primary text-center">
 
     <div class="container">
         <div class="row">
@@ -23,6 +23,74 @@
         </div>
     </div>
 </section>
+<script>
+var isCarouselPaused = false;
+
+$( window ).on( 'load resize', function() {
+  if ( document.documentElement.clientWidth <= 767 ) {
+    if ( !isCarouselPaused ) {
+      $( '#myCarousel' ).carousel('pause');
+      isCarouselPaused = true;
+    }
+  } else {
+    if ( isCarouselPaused ) {
+      $( '#myCarousel' ).carousel('cycle');
+      isCarouselPaused = false;
+    }
+  };
+});
+</script>
+
+<section class="no-padding" class="bg-primary text-center">
+
+<<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+   
+      
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <div class="item active entrevista">
+            <a href="https://www.w3schools.com"><img src="https://raw.githubusercontent.com/Rebecasarai/rebecasarai.github.io/master/img/entrevista.png" alt="First slide">
+            <div class="carousel-caption"> 
+              <h3>Entrevista con Canal Sur</h3>
+              <p>"Inteligencia Artificial hecha en Andalucia" </p></a>
+              
+            </div>
+          </div>
+          <div class="item">
+            <a href="https://www.fundaciontelefonica.com/empleabilidad/think-big/demo-day-think-big-2017/"><img src="https://raw.githubusercontent.com/Rebecasarai/rebecasarai.github.io/master/img/demodayRebeca.jpg" alt="Second slide">
+            <div class="carousel-caption">
+              <h3>Presentación del proyecto</h3>
+              <p>En el Demo Day de Think Big 2017.</p>
+              </a>
+            </div>
+          </div>
+          <div class="item">
+            <a href="http://www.efeemprende.com/noticia/fundacion-telefonica-celebra-think-big-mas-500-solicitudes-9-finalistas/">
+            <img src="http://www.efeemprende.com/wp-content/blogs.dir/2/files_mf/cache/th_3b651670e2f30f81201e5ad0e93774b3_fundacion-telefonica-think-big.jpg" alt="Third slide">
+            <div class="carousel-caption">
+              <h3>Articulo EFE Emprende</h3>
+              <p>Entrevista sobre Braille writer</p>
+            </div>
+            </a>
+          </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only">Previous</span></a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only">Next</span></a>
+      </div>
+      
+    </div> 
+  </div> 
+</div>
+
+</section>
+
 
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">

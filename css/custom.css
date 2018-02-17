@@ -1,3 +1,51 @@
+
+@media (max-width: 767px) {
+  .carousel .item {
+    display: block;
+    margin-top: 12px;
+  }
+  .carousel-control, 
+  .carousel-indicators {
+    display: none;
+  }
+  
+  /* Place captions under their images */
+  .carousel-caption {
+    color: black;
+    position: static;
+    text-align: left;
+    text-shadow: none;
+  }
+  
+  /* Decorations */  
+  .carousel-caption h3 {
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+}
+
+/* Make the images wide and responsive. */
+.carousel-inner img {
+  height: auto;
+  width: 100%;
+}
+
+/* Decorations */  
+.carousel {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.entrevista{
+  
+   background-image: url("https://raw.githubusercontent.com/Rebecasarai/rebecasarai.github.io/master/img/entrevista.png") !important;
+   background-color: #cccccc;
+    
+}
+
+
+
 #fundshead{
     position: relative;
     width: 100%;
