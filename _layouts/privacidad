@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include header.html %}
+ <!-- {% include call-to-action.html %}-->
+  {% include services2.html %}
+  {% include portfolio.html %}
+  {% include feature.html %}
+   {% include contact1.html %}
+  {% include aside.html %}
+ 	{% include quote1.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
