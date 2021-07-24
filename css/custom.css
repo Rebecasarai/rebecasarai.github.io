@@ -341,6 +341,10 @@ max-width: 31%;}
 .devicon-python-plain{
   font-size: 100px;
 }
+ 
+.row .text-center{
+  margin-top: 5%;
+  }
 
 }
 
