@@ -314,7 +314,7 @@ max-width: 20%;}
 
 @media (min-width: 1200px) {
 .logos-servicios1 {
-    max-width: 20%;
+    max-width: 31%;
 }
 .devicon-php-plain{
   font-size:73px;
@@ -329,7 +329,11 @@ max-width: 20%;}
     padding: 90px 0;
 }
 .logos-servicios{
-max-width: 28%;}
+max-width: 31%;}
+
+.opencv{
+  max-width: 25%;
+}
 
 }
 
