@@ -342,8 +342,8 @@ max-width: 31%;}
   font-size: 100px;
 }
  
-.row .text-center .skills{
-  margin-top: 5%;
+.skill-icons{
+  margin-top: 5% !important;
   }
 
 }
