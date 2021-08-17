@@ -278,8 +278,8 @@ background: #69049F;
 .devicon-php-plain{
   font-size:60px;
 }
-/*.devicon-scala-plain-wordmark{
-  font-size:55px;}*/
+.devicon-scala-plain-wordmark{
+  font-size:55px;}
 
 
 .devicon-javascript-plain {
@@ -333,8 +333,8 @@ max-width: 31%;}
 .opencv{
   max-width: 25%;
 }
-/*.devicon-scala-plain-wordmark{
-  font-size:100px;}*/
+.devicon-scala-plain-wordmark{
+  font-size:100px;}
 
 .devicon-javascript-plain {
   font-size:100px;
